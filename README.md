@@ -9,4 +9,4 @@ Install the python packages present in the `requirements.txt` file
 
 ## Features
 - Calculate the total number of the monumental trees present in each province.  This is the histogram:
-![Histogram 1](https://i.imgur.com/fgPYrNL.jpg "Histogram 1")
+![Histogram 1](https://i.imgur.com/fgPYrNL.png?1 "Histogram 1")
