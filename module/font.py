@@ -9,5 +9,5 @@ font_labels = {'family': 'serif',
 font_title = {'family' : 'sans-serif',
         'color': 'Blue',
         'weight': 'bold',
-        'size': 20,
+        'size': 18,
         }
