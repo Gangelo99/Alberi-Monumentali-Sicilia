@@ -15,9 +15,11 @@ def addlabels(x,y):
 
 
 addlabels(provincia_list, total_number_list)
-plt.xlabel('COMUNI', fontdict=font_labels)
+plt.xlabel('PROVINCE', fontdict=font_labels)
 plt.ylabel('TOTALE ALBERI', fontdict=font_labels)
 plt.title('TOTALE DI ALBERI MONUMENTALI\n PRESENTI NELLE VARIE PROVINCE', fontdict= font_title)
+
+# plt.savefig("histogram_1.jpg") #Uncomment this to save the histogram in jpg
 
 plt.show()
 
