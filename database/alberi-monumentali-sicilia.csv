@@ -43,9 +43,8 @@ c) valore ecologico
 f) pregio paesaggistico",sì,13.182361,37.592961
 15,SICILIA,01/E714/AG/19,Agrigento,Lucca Sicula,Ciancimino,"37° 34' 47,67''","13° 17' 53,65''",440.0,no,Quercus pubescens Willd.,Roverella,470.0,20.0,"a) età e/o dimensioni
 c) valore ecologico",no,13.298236,37.579908
-16,SICILIA,01/F126/AG/19,Agrigento,Menfi,Azienda Ravidà - Guerra Soprana - Strada Provinciale N. 48,"37° 38' 21,47''","12° 55' 17,47''",108.0,no,Insieme omogeneo di Quercus suber L.,Sughera,"200 (med)
-240 (max)","20,0 (med)
-25,0 (max)","a) età e/o dimensioni
+16,SICILIA,01/F126/AG/19,Agrigento,Menfi,Azienda Ravidà - Guerra Soprana - Strada Provinciale N. 48,"37° 38' 21,47''","12° 55' 17,47''",108.0,no,Insieme omogeneo di Quercus suber L.,Sughera,"200
+240","25.0","a) età e/o dimensioni
 c) valore ecologico
 f) pregio paesaggistico",no,12.921519,37.639297
 17,SICILIA,02/F126/AG/19,Agrigento,Menfi,Azienda Ravidà - Guerra Soprana,"37° 38' 21,12''","12° 55' 18,65''",108.0,no,Olea europaea L.,Olivo,470.0,3.5,"a) età e/o dimensioni
@@ -60,15 +59,13 @@ d) rarità botanica",no,13.270381,37.504814
 b) forma e portamento
 c) valore ecologico
 f) pregio paesaggistico",sì,13.127167,37.678772
-21,SICILIA,02/H743/AG/19,Agrigento,Sambuca di Sicilia,Adragna,"37° 40' 38,57''","13° 07' 51,12''",500.0,no,Insieme omogeneo di Quercus pubescens Willd.,Roverella,"360 (med)
-460 (max)","20,0 (med)
-30,0 (max)","a) età e/o dimensioni
+21,SICILIA,02/H743/AG/19,Agrigento,Sambuca di Sicilia,Adragna,"37° 40' 38,57''","13° 07' 51,12''",500.0,no,Insieme omogeneo di Quercus pubescens Willd.,Roverella,"360
+460","30.0","a) età e/o dimensioni
 b) forma e portamento
 c) valore ecologico
 f) pregio paesaggistico",sì,13.130867,37.677381
-22,SICILIA,03/H743/AG/19,Agrigento,Sambuca di Sicilia,Adragna - Strada Provinciale N. 69,"37° 40' 24,84''","13° 7' 51,16''",500.0,no,Insieme omogeneo di Quercus pubescens Willd.,Roverella,"410 (med)
-450 (max)","20,0 (med)
-20,0 (max)","a) età e/o dimensioni
+22,SICILIA,03/H743/AG/19,Agrigento,Sambuca di Sicilia,Adragna - Strada Provinciale N. 69,"37° 40' 24,84''","13° 7' 51,16''",500.0,no,Insieme omogeneo di Quercus pubescens Willd.,Roverella,"410
+450","20.0","a) età e/o dimensioni
 b) forma e portamento
 c) valore ecologico
 f) pregio paesaggistico",no,13.130878,37.673567
@@ -127,9 +124,8 @@ g) valore storico, culturale, religioso",no,14.950822,37.807350
 f) pregio paesaggistico
 g) valore storico, culturale, religioso",no,15.086094,37.738867
 43,SICILIA,02/F214/CT/19,Catania,Milo,Caselle - Via Guglielmo Marconi,"37° 43' 14,85''","15° 06' 32,11''",790.0,sì,Acer opalus Mill.,Acero napoletano,325.0,14.0,a) età e/o dimensioni,no,15.108919,37.720792
-44,SICILIA,03/F214/CT/19,Catania,Milo,Giarrita,37° 45' 37'',"15° 04' 21,19''",1430.0,no,Insieme omogeneo di Fagus sylvatica L.,Faggio,"670 (med)
-720 (max)","20,0 (med)
-21,0 (max)","a) età e/o dimensioni
+44,SICILIA,03/F214/CT/19,Catania,Milo,Giarrita,37° 45' 37'',"15° 04' 21,19''",1430.0,no,Insieme omogeneo di Fagus sylvatica L.,Faggio,"670
+720","21.0","a) età e/o dimensioni
 g) valore storico, culturale, religioso",no,15.072553,37.760278
 45,SICILIA,04/F214/CT/19,Catania,Milo,Bosco Barone Nicolosi,"37° 42' 24,17''","15° 06' 58,55''",580.0,no,Acer opalus subsp. obtusatum (Waldst. & Kit ex Willd.) Gams,Acero d'Ungheria,310.0,18.0,"a) età e/o dimensioni
 d) rarità botanica",no,15.116264,37.706714
@@ -145,9 +141,8 @@ f) pregio paesaggistico",no,14.909711,37.569686
 49,SICILIA,02/G371/CT/19,Catania,Paternò,Rotonda su Via Vittorio Emanuele,"37° 34' 09,5''","14° 54' 43,2''",250.0,sì,Ficus australis Willd.,Fico rugginoso,370.0,25.0,"a) età e/o dimensioni
 d) rarità botanica
 f) pregio paesaggistico",no,14.912000,37.569306
-50,SICILIA,01/H175/CT/19,Catania,Randazzo,Monte Santa Maria - Contrada Annunziata,"37° 49' 28,16''","14° 58' 55,86''",1537.0,no,Insieme omogeneo di Betula aetnensis Raf.,Betulla dell'Etna,"656 (med)
-710 (max)","16,0 (med)
-16,0 (max)","a) età e/o dimensioni
+50,SICILIA,01/H175/CT/19,Catania,Randazzo,Monte Santa Maria - Contrada Annunziata,"37° 49' 28,16''","14° 58' 55,86''",1537.0,no,Insieme omogeneo di Betula aetnensis Raf.,Betulla dell'Etna,"656
+710","16.0","a) età e/o dimensioni
 b) forma e portamento
 d) rarità botanica
 f) pregio paesaggistico",no,14.982183,37.824489
@@ -202,9 +197,8 @@ c) valore ecologico",no,14.985853,38.047519
 72,SICILIA,01/L042/ME/19,Messina,Taormina,Excelsior Palace,"37° 51' 1,93''","15° 16' 52,04''",164.0,sì,Dracaena draco L.,Albero del drago,200.0,8.0,"a) età e/o dimensioni
 c) valore ecologico
 d) rarità botanica",no,15.281122,37.850536
-73,SICILIA,02/L042/ME/19,Messina,Taormina,Excelsior Palace,"37° 50' 56,48''","15° 16' 52,86''",159.0,no,Insieme omogeneo di Ficus macrophylla Desf. ex Pers.,Fico magnolioide,"500 (med)
-550 (max)","12,0 (med)
-15,0 (max)","a) età e/o dimensioni
+73,SICILIA,02/L042/ME/19,Messina,Taormina,Excelsior Palace,"37° 50' 56,48''","15° 16' 52,86''",159.0,no,Insieme omogeneo di Ficus macrophylla Desf. ex Pers.,Fico magnolioide,"500
+550","15.0","a) età e/o dimensioni
 c) valore ecologico
 d) rarità botanica",no,15.281350,37.849022
 74,SICILIA,03/L042/ME/19,Messina,Taormina,Excelsior Palace,"37° 50' 53,88''","15° 16' 53,24''",162.0,no,Ceratonia siliqua L.,Carrubo,800.0,8.0,"a) età e/o dimensioni
@@ -279,9 +273,8 @@ e) architettura vegetale",no,13.341453,38.122858
 99,SICILIA,11/G273/PA/19,Palermo,Palermo,Villa Malfitano Whitaker - Via Dante 167,"38° 7' 25,32''","13° 20' 29,89''",38.0,sì,Nolina longifolia (Karw. ex Shult. & Shult.f.) Hemsl,Pianta mangiafumo,410.0,7.0,d) rarità botanica,no,13.341636,38.123700
 100,SICILIA,12/G273/PA/19,Palermo,Palermo,Villa Malfitano Whitaker - Via Dante 167,"38° 07' 19,5''","13° 20' 30,71''",37.0,sì,Yucca gigantea Lem.,Yucca,560.0,12.0,"a) età e/o dimensioni
 d) rarità botanica",no,13.341864,38.122083
-101,SICILIA,13/G273/PA/19,Palermo,Palermo,Villa Giulia,"38° 06' 51,06''","13° 22' 29,84''",5.0,sì,Insieme omogeneo di Washingtonia robusta H. Wendl.,Palma messicana,"150 (med)
-160 (max)","18,0 (med)
-20,0 (max)","a) età e/o dimensioni
+101,SICILIA,13/G273/PA/19,Palermo,Palermo,Villa Giulia,"38° 06' 51,06''","13° 22' 29,84''",5.0,sì,Insieme omogeneo di Washingtonia robusta H. Wendl.,Palma messicana,"150
+160","20.0","a) età e/o dimensioni
 d) rarità botanica
 e) architettura vegetale
 g) valore storico, culturale, religioso",no,13.374956,38.114183
@@ -311,9 +304,8 @@ d) rarità botanica",no,13.338158,38.105497
 d) rarità botanica",no,13.338656,38.105297
 112,SICILIA,25/G273/PA/19,Palermo,Palermo,Vivai Lo Porto,"38° 06' 21,37''","13° 20' 17,08''",51.0,sì,Sterculia acerifolia A. Cunn. Ex D. Don,Albero del fuoco,450.0,20.0,"a) età e/o dimensioni
 d) rarità botanica",no,13.338078,38.105936
-113,SICILIA,26/G273/PA/19,Palermo,Palermo,Villa Bonanno - Piazza  Vittoria,"38° 6' 44,7''","13° 21' 19,08''",33.0,sì,Insieme omogeneo di Phoenix dactylifera L.,Palma da datteri,"200 (med)
-250 (max)","20,0 (med)
-25,0 (max)","a) età e/o dimensioni
+113,SICILIA,26/G273/PA/19,Palermo,Palermo,Villa Bonanno - Piazza  Vittoria,"38° 6' 44,7''","13° 21' 19,08''",33.0,sì,Insieme omogeneo di Phoenix dactylifera L.,Palma da datteri,"200
+250","25.0","a) età e/o dimensioni
 d) rarità botanica
 e) architettura vegetale
 g) valore storico, culturale, religioso",sì,13.355300,38.112417
@@ -362,14 +354,12 @@ c) valore ecologico
 d) rarità botanica",sì,13.327511,38.098767
 130,SICILIA,43/G273/PA/19,Palermo,Palermo,Villa Tasca,"38° 6' 1,95''","13° 19' 41,34''",83.0,sì,Platanus acerifolia (Aiton) Willd.,Platano comune,465.0,30.0,"a) età e/o dimensioni
 c) valore ecologico",no,13.328150,38.100542
-131,SICILIA,44/G273/PA/19,Palermo,Palermo,Villa Tasca,"38° 5' 55,81''","13° 19' 39,94''",87.0,sì,"Insieme omogeneo di Araucaria columnaris, (G. Forst) Hook",Pino colonna,"320 (med)
-360 (max)","32,0 (med)
-34,0 (max)","a) età e/o dimensioni
+131,SICILIA,44/G273/PA/19,Palermo,Palermo,Villa Tasca,"38° 5' 55,81''","13° 19' 39,94''",87.0,sì,"Insieme omogeneo di Araucaria columnaris, (G. Forst) Hook",Pino colonna,"320
+360","34.0","a) età e/o dimensioni
 c) valore ecologico
 d) rarità botanica",no,13.327761,38.098836
-132,SICILIA,45/G273/PA/19,Palermo,Palermo,Villa Tasca,"38° 5' 58,09''","13° 19' 47,52''",84.0,sì,Insieme omogeneo di Phoenix dactylifera L.,Palma da datteri,"250 (med)
-280 (max)","15,0 (med)
-18,0 (max)",a) età e/o dimensioni,no,13.329867,38.099469
+132,SICILIA,45/G273/PA/19,Palermo,Palermo,Villa Tasca,"38° 5' 58,09''","13° 19' 47,52''",84.0,sì,Insieme omogeneo di Phoenix dactylifera L.,Palma da datteri,"250
+280","18.0",a) età e/o dimensioni,no,13.329867,38.099469
 133,SICILIA,46/G273/PA/19,Palermo,Palermo,Villa di Napoli,"38° 6' 24,32''","13° 20' 5,14''",68.0,sì,Ficus macrophylla Desf. ex Pers.,Fico magnolioide,24.0,28.0,"a) età e/o dimensioni
 c) valore ecologico",no,13.334761,38.106756
 134,SICILIA,47/G273/PA/19,Palermo,Palermo,S.M. di Gesù,"38° 4' 55,16''","13° 22' 47,29''",112.0,sì,Olea europaea L.,Olivo,660.0,12.0,"a) età e/o dimensioni
