@@ -22,6 +22,3 @@ plt.title('TOTALE DI ALBERI MONUMENTALI\n PRESENTI NELLE VARIE PROVINCE', fontdi
 # plt.savefig("histogram_1.jpg") #Uncomment this to save the histogram in jpg
 
 plt.show()
-
-
-

@@ -1,7 +1,7 @@
 #This file calculate the total number of Tree in a province
 
 ### Import Packages
-from module.input_database import data, pd
+from input_database import data, pd
 
 ### Input the .csv file
 df = pd.DataFrame(data, columns=['PROVINCIA', 'COMUNE', 'PROGR'])
