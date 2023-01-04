@@ -1,4 +1,4 @@
-# This file create the histogram with the total number of trees present in every province
+### This file create the histogram with the total number of trees present in every province
 
 #Import packages
 from module.sum_trees_province import provincia_list, total_number_list
