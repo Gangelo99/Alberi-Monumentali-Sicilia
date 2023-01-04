@@ -3,9 +3,7 @@
 #Import packages
 from module.sum_trees_province import provincia_list, total_number_list
 from module.font import font_labels, font_title
-# import matplotlib
 import matplotlib.pyplot as plt
-
 
 plt.bar(provincia_list, total_number_list)
 
