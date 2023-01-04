@@ -1,6 +1,6 @@
 #This file find the most height tree present in the database
 
-from input_database import pd, data
+from .input_database import pd, data
 
 df = pd.DataFrame(data, columns = ['COMUNE', 'ALTEZZA (m)','SPECIE NOME VOLGARE'])
 
