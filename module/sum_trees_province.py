@@ -1,7 +1,7 @@
 #This file calculate the total number of Tree in a province
 
 ### Import Packages
-from input_database import data, pd
+from .input_database import data, pd
 
 ### Input the .csv file
 df = pd.DataFrame(data, columns=['PROVINCIA', 'COMUNE', 'PROGR'])
@@ -12,8 +12,8 @@ group_provincia = group_provincia['PROVINCIA'] #Convert DataFrameGroupScalar to 
 group_provincia = group_provincia.count().sort_values(ascending= False) #Counting the total number of trees in a Provincia and sort the values 
 
 ### Create the lists of the province and obtain the list of the total number of trees 
-global provincia_list
+# global provincia_list
 provincia_list = group_provincia.index.to_list() #Obtain a list of the names of various province
 
-global total_number_list
+# global total_number_list
 total_number_list = group_provincia.values.tolist() #Obtain the list of the sum of the trees present in each province

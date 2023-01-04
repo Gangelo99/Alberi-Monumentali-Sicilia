@@ -2,7 +2,7 @@
 
 from input_database import pd, data
 
-df = pd.DataFrame(data, columns = ['COMUNE', 'ALTEZZA (m)'])
+df = pd.DataFrame(data, columns = ['COMUNE', 'ALTEZZA (m)','SPECIE NOME VOLGARE'])
 
 # most_height = df.groupby('COMUNE')
 # most_height = most_height['ALTEZZA (m)']
