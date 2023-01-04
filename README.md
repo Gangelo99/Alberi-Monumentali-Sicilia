@@ -14,3 +14,8 @@ Install the python packages present in the `requirements.txt` file
 	<p align="center">
 		<img src="https://i.imgur.com/fgPYrNL.png?1" width=80%>
 	</p>
+- ### histogram_2.py
+	Search the highest trees present in each city. This is the histogram:
+	<p align="center">
+		<img src="https://i.imgur.com/quEqe9h.png" width=80%>
+	</p>
